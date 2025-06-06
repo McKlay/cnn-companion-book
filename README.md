@@ -7,13 +7,23 @@
 
 # CNN Companion Book
 
+> *"From Pixels to Patterns — a deep, code-first journey into Convolutional Neural Networks for real-world computer vision."*  
+
+**Live Site**: [https://mcklay.github.io/cnn-companion-book/](https://mcklay.github.io/cnn-companion-book/)  
+Author: [Clay Mark Sarte](https://github.com/McKlay)  
+Built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) | Powered by [PyTorch](https://pytorch.org) & [TensorFlow](https://www.tensorflow.org)
+
+---
+
+## What This Is
+
 This repository contains a structured, book-style deep learning guide focused entirely on **Convolutional Neural Networks (CNNs)** for real-world computer vision. It is written in a modular, educational format tailored for **developers, ML engineers, students, and builders** who want to master CNNs through **hands-on coding using both PyTorch and TensorFlow**.
 
 Whether you're training a CNN from scratch or deploying a fine-tuned model in production, this companion book bridges **core theory, practical implementation, and deployment-readiness**—all in one place.
 
 ---
 
-## 📘 Included Topics
+## Table of Contents
 
 - `Part I – Foundations of Image Tensors and Preprocessing`  
   How CNNs interpret images, data formats ([H, W, C] vs [C, H, W]), RGB → Tensor pipelines, and input shape walkthroughs.

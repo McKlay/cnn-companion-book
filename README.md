@@ -73,12 +73,6 @@ Most chapters are available as standalone Jupyter notebooks and markdown files. 
 
 ---
 
-## Live Preview (Planned)
-
-> 📖 \[Coming Soon] Hosted documentation site via GitHub Pages or Hugging Face Spaces for interactive reading and model demos.
-
----
-
 ## Status
 
 **Work in Progress**

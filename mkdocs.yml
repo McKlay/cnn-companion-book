@@ -6,18 +6,18 @@ site_description: A Practical Guide to CNN Implementation with PyTorch and Tenso
 theme:
   name: material
   palette:
-    - scheme: indigo
+    - scheme: default
       primary: blue
       accent: light blue
       toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      primary: red
-      accent: pink
-      toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+    - scheme: slate
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
   features:
     - navigation.sections
     - navigation.expand

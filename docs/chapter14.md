@@ -3,10 +3,6 @@ hide:
     - toc
 ---
 
-Perfect, Clay! Let’s now move into **Chapter 14**, where everything from the previous chapters starts to take shape in a **full training loop.** This is where you finally *run the model*, watch it *learn*, and start logging the journey from raw pixels to meaningful predictions.
-
----
-
 # Chapter 14: *Training Loop Mechanics*
 
 > *“This is where the magic happens—not in the layers, not in the loss—but in the loop where learning actually unfolds.”*

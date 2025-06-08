@@ -3,12 +3,6 @@ hide:
     - toc
 ---
 
-Wonderful, Clay. Let’s now uncover what CNNs are really “seeing” inside those hidden layers.
-
-This chapter makes the invisible—visible. When your CNN makes a decision, it's because it “sees something” in the input image. But *what* is it seeing? That’s where **feature map visualization** comes in.
-
----
-
 # Chapter 17: *Visualizing Feature Maps and Filters*
 
 > *“CNNs are not black boxes. You just need the right lens to peek inside.”*
